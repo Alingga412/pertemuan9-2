@@ -102,7 +102,7 @@ Fungsi else jika tidak error dan type yang dimasukan sesuai maka proses while Tr
 ```python
 # -- encoding: utf-8 --
 #hauaahh Rizkyy Coder
-#KELAS : TI.20.A.1
+#KELAS : TI.20.A.2
 
 P = print
 print("Masukan data mahasiswa")
