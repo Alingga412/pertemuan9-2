@@ -3,9 +3,14 @@
 | Nama | kelas | Nim | Matkul |
 | -- | --- | ---- | ----------- |
 | Muhammad Rizky Abdillah | TI.20.A2 | 312010386 | Bahasa Pemrograman |
+## Daftar Isi
+| No | ISI | PENJELASAN | 
+| -- | --- | ---------- | 
+| 1. | Tugas Latihan 5 | [penjelasan](#TugasLatihan-5) | 
+| 2. | Tugas Praktikum 5 | [penjelasan](#PenjelasanPraktikum-5) | 
 
 
-## Tugas Latihan 5 
+### TugasLatihan 5 
 
 ![gambar output](gambar/soallatihan5.PNG)
 
@@ -72,7 +77,7 @@ print(30*"═")
 
 ![gambar output](gambar/soalpraktikum5.png)
 
-## Penjelasan Praktikum 5
+## PenjelasanPraktikum 5
 
  1) Penggunaan if c.lower()
 
