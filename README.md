@@ -66,7 +66,7 @@ print(30*"═")
 
 ## Hasil Output
 
-![gambar output](gambar/hasillatihan5.PNG)
+![gambar output](gambar/hasillatihan5.png)
 
 ## Soal Praktikum 5
 
@@ -292,8 +292,8 @@ while True:
 ```
 
 ## Hasil Output Praktikum 5
-![gambar output](gambar/hasilpraktikum5.PNG)
+![gambar output](gambar/hasilpraktikum5.png)
 
 ## Hasil Database Dari Inputan  Praktikum 5
-![gambar output](gambar/database5.PNG)
+![gambar output](gambar/database5.png)
 
