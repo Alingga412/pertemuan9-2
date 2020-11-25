@@ -70,25 +70,27 @@ print(30*"═")
 
 ## Soal Praktikum 5
 
-## Penjelasan Praktikum 5
-   1) Penggunaan if c.lower()
+![gambar output](gambar/soalpraktikum5.png)
 
-    if c.lower() fungsinya apabila user menginputkan denga huruf besar, maka otomatis akan menjadi huruf kecil sehingga kondisi yang digunakan tercapai. Contoh :
+## Penjelasan Praktikum 5
+
+ 1) Penggunaan if c.lower()
+
+if c.lower() fungsinya apabila user menginputkan denga huruf besar, maka otomatis akan menjadi huruf kecil sehingga kondisi yang digunakan tercapai. Contoh :
 
 if c.lower() == `q`
 
-    2) Penggunaan while True
+2) Penggunaan while True
 
-    while True berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul error
+while True berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul error
 
+3) Penggunaan else
 
-    3) Penggunaan else
+Fungsi else jika tidak error dan type yang dimasukan sesuai maka proses while True
 
-    Fungsi else jika tidak error dan type yang dimasukan sesuai maka proses while True
+4) Penggunaan valuveError
 
-    4) Penggunaan valuveError
-
-    Fungsinya apabila diinputkan bukan berupa type maka hasil nya error (valueError) 
+   Fungsinya apabila diinputkan bukan berupa type maka hasil nya error (valueError) 
 
 
 ## Source Code Praktikum 5
